@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
-**sreedevigattu/sreedevigattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sreedevi Gattu and I work as a freelancer technical consultant and data analyst. I work on short term projects with companies. You can find me on 
+<a href="https://www.linkedin.com/in/sreedevi-gattu/"><img src="https://simpleicons.org/icons/linkedin.svg" width="20"></a>.
+📫 You can reach me: ...
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently ...
+- on a datascience project at Connectwise
+- on a Web UI project at yogifi
+- teaching python to Middle School children
+
+🌱 I’m currently learning ...
+- <img src= "https://simpleicons.org/icons/kubernetes.svg" width="15"> Kubernetes
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=2bbc8a) 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=2bbc8a) 
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&color=2bbc8a) 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&color=2bbc8a)
