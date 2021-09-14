@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Sreedevi Gattu and I work as a freelancer technical consultant and data analyst. I work on short term projects with companies. You can find me on 
-<a href="https://www.linkedin.com/in/sreedevi-gattu/"><img src="https://simpleicons.org/icons/linkedin.svg" width="20"></a>.
-📫 You can reach me: <sreevibhor@gmail.com>
+I am Sreedevi Gattu and I work as a freelancer technical consultant and data analyst. I work on short term projects with companies. 
+You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img src="https://simpleicons.org/icons/linkedin.svg" width="20"></a>.
+You can reach me: <sreevibhor@gmail.com>
 
 🔭 I’m currently  ...
 - working as a Consultant Architect (part-time) at [Connectwise](https://www.connectwise.com/) 
@@ -10,7 +10,7 @@ I am Sreedevi Gattu and I work as a freelancer technical consultant and data ana
 - teaching python to Middle School children
 
 🌱 I’m currently learning ...
-- <img src= "https://simpleicons.org/icons/kubernetes.svg" width="15"> Kubernetes
+- <img src= "https://simpleicons.org/icons/kubernetes.svg" width="15"> PowerBI
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=2bbc8a) 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=2bbc8a) 
