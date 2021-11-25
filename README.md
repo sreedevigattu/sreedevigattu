@@ -6,12 +6,13 @@ You can reach me: <sreevibhor@gmail.com>
 
 🔭 I’m currently  ...
 - working as a Consultant Architect (part-time) at [Connectwise](https://www.connectwise.com/) 
-- working on data analysis and dashboarding for [yogifi](https://www.yogifi.fit/) at [wellnesys](https://wellnesys.com/)
-- teaching python to Middle School children
+- pursuing PGDS course at IIIT Bangalore (Upgrad)
 
 🌱 I’m currently exploring ... 
 - Data storytelling | <img src= "https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="15"> PowerBI
-- [Blog writing](https://www.analyticsvidhya.com/blog/author/sreedevig/)
+
+### Blogs
+[Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/)
 
 ### My journey in Data Storytelling
 | Date | Project | Details |
