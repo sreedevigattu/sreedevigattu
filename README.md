@@ -17,7 +17,7 @@ You can reach me: <sreevibhor@gmail.com>
 ### My journey in Data Storytelling
 | Date | Project | Details |
 |---|---|---|
-| August 2022 | **[Storytelling with Data's AUG 2022 Visualize Vacation challenge](https://github.com/sreedevigattu/internetusers/blob/main/internet.png)** | Used Tableau and datasets from data.gov in site |
+| Aug 2022 | **[Storytelling with Data's AUG 2022 Visualize Vacation challenge](https://github.com/sreedevigattu/internetusers/blob/main/internet.png)** | Used Tableau and datasets from data.gov in site |
 | July 2022 | **[Storytelling with data JUL 2022 Think Globally challenge](https://github.com/sreedevigattu/internetusers/blob/main/internet.png)** | Analyze any global data set that is spanning across countries and time, and create a visual that delivers a simple, memorable, and compelling message based on that data. Used Excel and Powerpoint |
 | Dec 2021 | **[2021 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/sreedevigattu/women-40years-in-ml-ds)**| A data story about a subset of the data science community (Women > 40 yrs) represented in the survey, through a combination of both narrative text and data exploration.  |
 | Oct 2021 | **[Gramener #ComicgenFriday submission](https://gramener.com/comicgenfriday/gallery?exercise=2021-Exercise-009)** | This story tries to answer the questions - Where does the plastic in our oceans come from?, Which countries are the major offenders? How to tackle plastic pollution problem? |
