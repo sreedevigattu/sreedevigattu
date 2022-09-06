@@ -6,7 +6,7 @@ You can reach me: <sreevibhor@gmail.com>
 
 🔭 I’m currently  ...
 - working as a Consultant Architect (part-time) at [Connectwise](https://www.connectwise.com/) 
-- pursuing PGDS course at IIIT Bangalore (Upgrad)
+- completed PGDS course at IIIT Bangalore (Upgrad)
 
 🌱 I’m currently exploring ... 
 - Data storytelling | <img src= "https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="15"> PowerBI
