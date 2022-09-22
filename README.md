@@ -17,6 +17,7 @@ You can reach me: <sreevibhor@gmail.com>
 ### My journey in Data Storytelling
 | Date | Project | Details |
 |---|---|---|
+| Sep 2022 | **Storytelling with Data's SEP 2022 [known to novel](https://github.com/sreedevigattu/olympics2021/blob/main/outputs/swd_sankey.png)** | Represented the 2021 Olympics medal tally for the top 5 countries is represented in multiple visualisations. |
 | Aug 2022 | **Storytelling with Data's AUG 2022 [Visualize Vacation challenge](https://github.com/sreedevigattu/vacation/blob/main/vacation.png)** | Analysed data related to foreign travellers to India and created a visual that shows the trend of travellers in the COVID year. Used Tableau and datasets from data.gov in site |
 | July 2022 | **Storytelling with data JUL 2022 [Think Globally challenge](https://github.com/sreedevigattu/internetusers/blob/main/internet.png)** | Analyzed global data set (internet users across years) that is spanning across countries and time, and created a visual that delivers a simple, memorable, and compelling message based on that data. Used Excel and Powerpoint |
 | Dec 2021 | **[2021 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/sreedevigattu/women-40years-in-ml-ds)**| A data story about a subset of the data science community (Women > 40 yrs) represented in the survey, through a combination of both narrative text and data exploration.  |
