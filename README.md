@@ -11,8 +11,9 @@ You can reach me: <sreevibhor@gmail.com>
 🌱 I’m currently exploring ... 
 - Data storytelling | <img src= "https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="15"> PowerBI
 
-### Blogs
-[Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/)
+### My work
+- [Blogs on Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/)
+- [Storytelling with data - Visualization challenges](https://community.storytellingwithdata.com/members/sreedevi-gattu/gallery)
 
 ### My journey in Data Storytelling
 | Date | Project | Details |
