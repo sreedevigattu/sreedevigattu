@@ -15,9 +15,12 @@ You can reach me: <sreevibhor@gmail.com>
 - [Blogs on Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/)
 - [Storytelling with data - Visualization challenges](https://community.storytellingwithdata.com/members/sreedevi-gattu/gallery)
 
+
+
 ### My journey in Data Storytelling
 | Date | Project | Details |
 |---|---|---|
+| Nov 2022 | My submission **[Jog to the finish](https://community.storytellingwithdata.com/challenges/nov-2022-comedic-charts/jog-to-the-finish)** for the **[SWD's NOV 2022 comedic charts](https://community.storytellingwithdata.com/challenges/nov-2022-comedic-charts)** challenge | A hand-drawn visual to depict my energy levels during my morning jog |
 | Oct 2022 | My submission **[Electric Vehicles in India](https://github.com/sreedevigattu/electricvehicles/blob/main/README.md)** for the **[SWD's OCT 2022 - tree-mendous treemaps](https://community.storytellingwithdata.com/challenges/october-2022-tree-mendous-treemaps#accept-challenge)** challenge | Compared the districbution of electric vehicles in India in 2021 with Treemap and sunburst charts. Used Tableau and datasets from data.gov in site |
 | Sep 2022 | My submission **[Olympics 2021: Country and Medals](https://github.com/sreedevigattu/olympics2021/blob/main/outputs/swd_sankey.png) [2](https://github.com/sreedevigattu/olympics2021/blob/main/outputs/swd_bar.png) [3](https://github.com/sreedevigattu/olympics2021/blob/main/outputs/swd_parcoord.png) [4](https://github.com/sreedevigattu/olympics2021/blob/main/outputs/swd_map.png)** for the **[SWD's SEP 2022 - known to novel](https://community.storytellingwithdata.com/challenges/sep-2022-known-to-novel)** challenge | Represented the 2021 Olympics medal tally for the top 5 countries is represented in multiple visualisations. |
 | Aug 2022 | My submission **[How badly was the number of foreign travellers to India affected in the COVID year?](https://github.com/sreedevigattu/vacation/blob/main/vacation.png)** for the **[SWD's AUG 2022 - Visualize Vacation](https://community.storytellingwithdata.com/challenges/aug-2022-visualize-vacation/how-badly-was-the-number-of-foreign-travellers-to-)** challenge| Analysed data related to foreign travellers to India and created a visual that shows the trend of travellers in the COVID year. Used Tableau and datasets from data.gov in site |
