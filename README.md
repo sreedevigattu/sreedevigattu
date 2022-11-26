@@ -9,7 +9,7 @@ You can reach me: <sreevibhor@gmail.com>
 - completed PGDS course at IIIT Bangalore (Upgrad)
 
 🌱 I’m currently exploring ... 
-- Data storytelling | <img src= "https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="15"> PowerBI
+- Data storytelling | <img src= "https://avatars.githubusercontent.com/u/1562726?s=200&v=4" width="15"> D3.js
 
 ### My work
 - [Blogs on Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/)
