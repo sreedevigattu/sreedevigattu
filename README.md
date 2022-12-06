@@ -5,6 +5,7 @@ You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img sr
 You can reach me: <sreevibhor@gmail.com>
 
 🔭 I’m currently  ...
+- consultant at Decision Sciences department at IIMB
 - working as a Consultant Architect (part-time) at [Connectwise](https://www.connectwise.com/) 
 - completed PGDS course at IIIT Bangalore (Upgrad)
 
