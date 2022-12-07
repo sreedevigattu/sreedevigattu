@@ -12,8 +12,7 @@ You can reach me: <sreevibhor@gmail.com>
 🌱 I’m currently exploring...Data storytelling | <img src= "https://avatars.githubusercontent.com/u/1562726?s=200&v=4" width="15"> D3.js
 
 ### My work
-- [Blogs on Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/)
-- [Storytelling with data - Visualization challenges](https://community.storytellingwithdata.com/members/sreedevi-gattu/gallery)
+[Blogs on Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/) | [Storytelling with data - Visualization challenges](https://community.storytellingwithdata.com/members/sreedevi-gattu/gallery)
 
 ### My journey in Data Storytelling
 
