@@ -24,6 +24,7 @@ Note: _Cannot share Code from the projects due to NDA_
 | Date | Project | Details| 
 |---|---|---|
 | Feb - Oct 2022 | **MP excise Data Analysis** @ IIMB | The MP excise team auctions the liquor shops in the state every year. Instead of deciding the auction price ad hoc, they want to move towards an evidence based price using machine learning techniques. The liquor consumption and census data of the past years for various districts & shop level data was used for the analysis. Clustering and Logistic Regression techniques were used on this data to build models to help the MP excise team with the pricing of liquor shops. Used python, scikit learn, pandas|
+| Dec-May 2021 | **Malicious Command Detection** @ConnectWise | Classify (powershell) commands as malicious using NLP based ML techniques |
 | Nov - Dec 2019 | **Email analysis** @ MCA Technology| Analysed emails to detect mails that could indicate fraud using various text analytics methods like topic modelling (lda), word embedding and network analysis (using gephi). Developed tools using python, pandas, gephi, genism. |
 | Mar - Nov 2019 | **Sensitive Data Discovery** @ Netalytics | Developed an implementation idea (Logistic Regression model) to identify if a machine contains files with sensitive data using Machine Learning techniques (text mining, neural networks). Used: Elastic Search, python, NLP libraries (nltk, spacy), pandas, scikit learn, keras. |
 
