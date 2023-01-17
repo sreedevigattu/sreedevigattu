@@ -10,16 +10,15 @@ You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img sr
 
 🌱 I’m currently exploring...Data storytelling | <img src= "https://avatars.githubusercontent.com/u/1562726?s=200&v=4" width="15"> D3.js
 
-### My work
-|  |  |
+|My work in ||
 |---|---|
-| Machine Learning | [Projects](#MLProjects) & [Challenges](MLChallenges)|
-| Data Storytelling/Visualization | [Projects](#DSProjects) & [Challenges](Challenges) | 
+| [Machine Learning](1-machinelearning) | [Projects](#11-projects) & [Challenges](#12-challenges)|
+| [Data Storytelling/Visualization](2-my-journey-in-data-storytelling) | [Projects](#21-projects) & [Challenges](#22-challenges) | 
 | Blogs | [Blogs on Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/) |
 
-### Machine Learning 
+### 1 Machine Learning 
 
-#### <a name="MLProjects"></a> Projects
+#### 1.1 Projects
 Note: _Cannot share Code from the projects due to NDA_
 | Date | Project | Details| 
 |---|---|---|
@@ -29,13 +28,13 @@ Note: _Cannot share Code from the projects due to NDA_
 | Nov - Dec 2019 | **Email analysis** @ MCA Technology| Analysed emails to detect mails that could indicate fraud using various text analytics methods like topic modelling (lda), word embedding and network analysis (using gephi). Developed tools using python, pandas, gephi, genism. |
 | Mar - Nov 2019 | **Sensitive Data Discovery** @ Netalytics | Developed an implementation idea (Logistic Regression model) to identify if a machine contains files with sensitive data using Machine Learning techniques (text mining, neural networks). Used: Elastic Search, python, NLP libraries (nltk, spacy), pandas, scikit learn, keras. |
 
-#### Challenges
+#### 1.2 Challenges
 | Date | Project | Details| 
 |---|---|---|
 | Jan-Feb 2021 | **[WiDS Datathon 2021](https://github.com/sreedevigattu/wids2021)** | The WiDS Datathon 2021 focuses on patient health, with an emphasis on the chronic condition of diabetes, through data from MIT’s GOSSIS (Global Open Source Severity of Illness Score) initiative. Built a XGBoost based Logistic Regression model to determine whether a patient admitted to an ICU has been diagnosed with a particular type of diabetes, Diabetes Mellitus. Submission](https://www.kaggle.com/code/sreedevigattu/model) |
 
-### My journey in Data Storytelling
-#### <a name="DSProjects"></a> Projects
+### 2 My journey in Data Storytelling
+#### 2.1 Projects
 Note: _Cannot share Code and visualisations from the projects due to NDA_
 | Date | Project | Details |
 |---|---|---|
@@ -43,7 +42,7 @@ Note: _Cannot share Code and visualisations from the projects due to NDA_
 | Mar-June 2021 | **[Yogifi's Operational Analytics - Google Data Studio]()** *To add link* | [Yogifi](https://yogifi.fit/) Creation of a data pipeline for regular generation of reports of the user's (real time) usage of the yoga mats. The user data from mongodb is (custom) synchronised to the Google's Big Query using Google's Serverless components - Cloud Function, Cloud Run & Scheduler. Meaningful insights (from the YogiFi App and mat data) were identified and presented in a Google Data Studio to the customers (buyers/ decision makers)|
 | Sep2019-Jan2020 | **[Yogifi's Operational Analytics in Chatio]()** *To add link*| [Yogifi](https://yogifi.fit/) is an Interactive Fitness Mat that provides guided instructions and real-time corrections on your form/poses, for yoga and other workouts. Meaningful insights (from the YogiFi App and mat data) were identified and presented in a dashboard to the customers (buyers/ decision makers). Used chartio (+stitch) to present the data fetched from mongoDB. Used in CES 2020. |
 
-#### Challenges
+#### 2.2 Challenges
 | | |
 |---|---|
 | *Coming soon..* | DEC 2022 **[De-clutter](https://community.storytellingwithdata.com/challenges/dec-2022-where-are-your-eyes-drawn/de-clutter)** |
