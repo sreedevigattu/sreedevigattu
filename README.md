@@ -13,13 +13,13 @@ You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img sr
 ### My work
 |  |  |
 |---|---|
-| Machine Learning | [Projects](MLProjects) & [Challenges](MLChallenges)|
-| Data Storytelling/Visualization | [Projects](Projects) & [Challenges](Challenges) | 
+| Machine Learning | [Projects](#MLProjects) & [Challenges](MLChallenges)|
+| Data Storytelling/Visualization | [Projects](#DSProjects) & [Challenges](Challenges) | 
 | Blogs | [Blogs on Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/) |
 
 ### Machine Learning 
 
-#### Projects
+#### <a name="MLProjects"></a> Projects
 Note: _Cannot share Code from the projects due to NDA_
 | Date | Project | Details| 
 |---|---|---|
@@ -35,7 +35,7 @@ Note: _Cannot share Code from the projects due to NDA_
 | Jan-Feb 2021 | **[WiDS Datathon 2021](https://github.com/sreedevigattu/wids2021)** | The WiDS Datathon 2021 focuses on patient health, with an emphasis on the chronic condition of diabetes, through data from MIT’s GOSSIS (Global Open Source Severity of Illness Score) initiative. Built a XGBoost based Logistic Regression model to determine whether a patient admitted to an ICU has been diagnosed with a particular type of diabetes, Diabetes Mellitus. Submission](https://www.kaggle.com/code/sreedevigattu/model) |
 
 ### My journey in Data Storytelling
-#### Projects
+#### <a name="DSProjects"></a> Projects
 Note: _Cannot share Code and visualisations from the projects due to NDA_
 | Date | Project | Details |
 |---|---|---|
