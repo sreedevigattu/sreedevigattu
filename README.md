@@ -44,9 +44,9 @@ Note: _Cannot share Code and visualisations from the projects due to NDA_
 #### 2.2 Challenges
 | | |
 |---|---|
-| *Coming soon..* | DEC 2022 **[De-clutter](https://community.storytellingwithdata.com/challenges/dec-2022-where-are-your-eyes-drawn/de-clutter)** |
-| *Coming soon..* | <img src="https://swd-community-media.s3.amazonaws.com/media/internet-wayed_.png" alt="De-clutter" style="height:250px; width:400px;"/> |
-| *Coming soon..* | A improved version of the **internet users across years and around the world** for [SWD's DEC 2022 where are your eyes drawn?](https://community.storytellingwithdata.com/challenges/dec-2022-where-are-your-eyes-drawn/de-clutter) challenge. ([repo](https://github.com/sreedevigattu/internetusers)) |
+| MAR 2023 **[Nightingale's Story of Causes of Mortality - retold](https://community.storytellingwithdata.com/challenges/mar-2023-remake-a-famous-graph/nightingales-story-of-causes-of-mortality-retold)** | DEC 2022 **[De-clutter](https://community.storytellingwithdata.com/challenges/dec-2022-where-are-your-eyes-drawn/de-clutter)** |
+| <img src="https://swd-community-media.s3.amazonaws.com/media/nightingale-retold__.png" alt="Nightingale" style="height:250px; width:400px;"/>  | <img src="https://swd-community-media.s3.amazonaws.com/media/internet-wayed_.png" alt="De-clutter" style="height:250px; width:400px;"/> |
+| Retold Nightingales' story of the Causes of Mortality for [SWD's MAR 2023 remake a famous graph](https://community.storytellingwithdata.com/challenges/mar-2023-remake-a-famous-graph)| A improved version of the **internet users across years and around the world** for [SWD's DEC 2022 where are your eyes drawn?](https://community.storytellingwithdata.com/challenges/dec-2022-where-are-your-eyes-drawn) challenge. ([repo](https://github.com/sreedevigattu/internetusers)) |
 |  |  |
 | Nov 2022 **[Jog to the finish](https://community.storytellingwithdata.com/challenges/nov-2022-comedic-charts/jog-to-the-finish)** | Oct 2022 **[Electric Vehicles in India](https://community.storytellingwithdata.com/challenges/october-2022-tree-mendous-treemaps/electric-vehicles-in-india)** |
 | <img src="https://swd-community-media.s3.amazonaws.com/media/WhatsApp%20Image%202022-11-24%20at%2012.19.31%20PM.jpeg" alt="Jog to the finish" style="height:250px; width:400px;"/> | <img src="https://swd-community-media.s3.amazonaws.com/media/zonewise.png" alt="Electric Vehicles in India" style="height:250px; width:400px;"/> | 
