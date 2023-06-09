@@ -11,7 +11,7 @@ You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img sr
 
 |My work in ||
 |---|---|
-| [Machine Learning](1-machinelearning) | [Projects](#11-projects) & [Challenges](#12-challenges)|
+| [Machine Learning](1-machine-learning) | [Projects](#11-projects) & [Challenges](#12-challenges)|
 | [Data Storytelling/Visualization](2-my-journey-in-data-storytelling) | [Projects](#21-projects) & [Challenges](#22-challenges) | 
 | Blogs | [Blogs on Visualization](https://www.analyticsvidhya.com/blog/author/sreedevig/) |
 
