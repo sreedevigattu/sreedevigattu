@@ -44,9 +44,9 @@ Note: _Cannot share Code and visualisations from the projects due to NDA_
 #### 2.2 Challenges
 | | |
 |---|---|
-|  | Jun 2023 **[GoodReads Best Books - Top 50](https://community.storytellingwithdata.com/challenges/jun-2023-fun-with-fonts/goodreads-best-books-top-50)** |
-|  | <img src="https://swd-community-media.s3.amazonaws.com/media/book_wordcloud.jpg" alt="GoodReads Best Books - Top 50" style="height:250px; width:400px;"/> |
-|  | A wordcloud of the top 50 voted best books from GoodReads for [SWD's JUN 2023 fun with fonts](https://community.storytellingwithdata.com/challenges/jun-2023-fun-with-fonts) challenge. The font is used to represent the genre of the book. ([repo](https://github.com/sreedevigattu/try-d3/blob/main/top50books_wordcloud.html)) |
+| Jun2023 **Women in Government** | Jun 2023 **[GoodReads Best Books - Top 50](https://community.storytellingwithdata.com/challenges/jun-2023-fun-with-fonts/goodreads-best-books-top-50)** |
+| <img src="https://github.com/sreedevigattu/womeningovt/blob/main/out/womeningovt.jpg" style="height:250px; width:400px;"/> | <img src="https://swd-community-media.s3.amazonaws.com/media/book_wordcloud.jpg" alt="GoodReads Best Books - Top 50" style="height:250px; width:400px;"/> |
+| The common perception is that historically and even in the present times, women have not been actively participating in governance of a country. Is the women's participation in governance really low? Is this trend similar across the world? ([repo](https://github.com/sreedevigattu/womeningovt))| A wordcloud of the top 50 voted best books from GoodReads for [SWD's JUN 2023 fun with fonts](https://community.storytellingwithdata.com/challenges/jun-2023-fun-with-fonts) challenge. The font is used to represent the genre of the book. ([repo](https://github.com/sreedevigattu/try-d3/blob/main/top50books_wordcloud.html)) |
 |  |  |
 | Mar 2023 **[Nightingale's Story of Causes of Mortality - retold](https://community.storytellingwithdata.com/challenges/mar-2023-remake-a-famous-graph/nightingales-story-of-causes-of-mortality-retold)** | Dec 2022 **[De-clutter](https://community.storytellingwithdata.com/challenges/dec-2022-where-are-your-eyes-drawn/de-clutter)** |
 | <img src="https://swd-community-media.s3.amazonaws.com/media/nightingale-retold_.jpg" alt="Nightingale" style="height:250px; width:400px;"/>  | <img src="https://swd-community-media.s3.amazonaws.com/media/internet-wayed_.png" alt="De-clutter" style="height:250px; width:400px;"/> |
