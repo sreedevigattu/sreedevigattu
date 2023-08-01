@@ -4,7 +4,7 @@ I am Sreedevi Gattu and I work as a freelancer technical consultant and data ana
 You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img src="https://simpleicons.org/icons/linkedin.svg" width="20"></a> and reach me at <sreevibhor@gmail.com>
 
 🔭 I’m currently  ...
-- a Consultant Architect (part-time) at [Connectwise](https://www.connectwise.com/) 
+- a Consultant Architect at [Connectwise](https://www.connectwise.com/) 
 - completed PGDS course at IIIT Bangalore (Upgrad)
 
 🌱 I’m currently exploring...Data storytelling | <img src= "https://avatars.githubusercontent.com/u/1562726?s=200&v=4" width="15"> D3.js
