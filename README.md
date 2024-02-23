@@ -3,7 +3,7 @@
 I am Sreedevi Gattu and I work as a freelancer technical consultant and data analyst. I work on short term projects with companies. 
 You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img src="https://simpleicons.org/icons/linkedin.svg" width="20"></a> and reach me at <sreevibhor@gmail.com>
 
-🌱 I’m currently exploring...<img src= "[https://avatars.githubusercontent.com/u/1562726?s=200&v=4](https://genai.works/wp-content/uploads/2023/06/Logo_GenAI.png)" width="15"> GenAI
+🌱 I’m currently exploring...<img src=[https://genai.works/wp-content/uploads/2023/06/Logo_GenAI.png] width="15"> GenAI
 
 |My work in ||
 |---|---|
