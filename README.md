@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sreedevi Gattu currently working as a technical consultant at [scribie](https://scribie.com/) 
+I am Sreedevi Gattu currently working as a technical consultant at [scribie](https://scribie.com/) We use GenAI extensively for development/code generation and at runtime for deployed features. 
 You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img src="https://simpleicons.org/icons/linkedin.svg" width="20"></a> and reach me at <sreevibhor@gmail.com>
 
 |My work in ||
