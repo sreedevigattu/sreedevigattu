@@ -3,8 +3,6 @@
 I am Sreedevi Gattu currently working as a technical consultant at [scribie](https://scribie.com/) 
 You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img src="https://simpleicons.org/icons/linkedin.svg" width="20"></a> and reach me at <sreevibhor@gmail.com>
 
-🌱 I’m currently exploring...<img src=[https://genai.works/wp-content/uploads/2023/06/Logo_GenAI.png] width="15"> GenAI
-
 |My work in ||
 |---|---|
 | [Machine Learning and AI](#1-machine-learning-and-ai) | [Projects](#11-projects) & [Challenges](#12-challenges)|
