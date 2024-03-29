@@ -17,9 +17,9 @@ You can find me on <a href="https://www.linkedin.com/in/sreedevi-gattu/"><img sr
 Note: _Cannot share Code from the projects due to NDA_
 | Date | Project | Details| 
 |---|---|---|
-|Dec 2023 - Jan 2024 | **Q&A Chatbot - GenAI** @ConnectWise ||
-|June 2023 - Dec 2023 | **Translate - GenAI** @ConnectWise ||
-|June 2023 - Dec 2023 | **Budget Forecast** @ConnectWise ||
+|Dec 2023 - Jan 2024 | **Q&A Chatbot - GenAI** @ConnectWise | A Q&A chatbot for the REST API documentation exposed to the customer. The REST API had 300+ objects and around 5 APIs on each object. The Q&A chatbot makes it easier for the user to search for the APIs |
+|June 2023 - Dec 2023 | **Translate - GenAI** @ConnectWise | Translate the text using OpenAI LLM |
+|June 2023 - Dec 2023 | **Budget Forecast** @ConnectWise | Time Series Forecasting for the budget for the upcoming year |
 | Feb - Oct 2022 | **MP excise Data Analysis** @ IIMB | The MP excise team auctions the liquor shops in the state every year. Instead of deciding the auction price ad hoc, they want to move towards an evidence based price using machine learning techniques. The liquor consumption and census data of the past years for various districts & shop level data was used for the analysis. Clustering and Logistic Regression techniques were used on this data to build models to help the MP excise team with the pricing of liquor shops. Used python, scikit learn, pandas|
 | May-April2022 | **PGDS course - upGrad & IIITB** | [Credit Risk EDA](https://github.com/sreedevigattu/crediteda), [Online course lead scoring](https://github.com/sreedevigattu/leadscoring), [House Price Prediction](https://github.com/sreedevigattu/housepricing), [Recommendation Systems](https://github.com/sreedevigattu/pgds/tree/master/Recommendattion%20Systems)|
 | Dec-May 2021 | **Malicious Command Detection** @ConnectWise | Classify (powershell) commands as malicious using NLP based ML techniques. Used: python, NLP libraries (nltk, spacy), pandas, scikit learn|
